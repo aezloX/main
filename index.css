@@ -10,7 +10,10 @@
   margin: -76px 0 0 -76px;
   border: 16px solid #f3f3f3;
   border-radius: 50%;
-  border-top: 16px solid #3498db;
+  border-top: 16px solid #6CABDD;
+  border-right: 16px solid #1C2C5B;
+  border-bottom: 16px solid #09B1EC;
+  border-left: 16px solid #0463CA;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
 }
